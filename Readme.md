@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Павел Яценко](https://up.htmlacademy.ru/javascript/30/user/2327021).
-* Наставник: [Кенан Агаев].
+* Наставник: [Кенан Агаев].(https://htmlacademy.ru/profile/kenakula)
 
 ---
 
